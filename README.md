@@ -7,3 +7,4 @@ This program supports membership functions, and has information on restaurants, 
 # Database Tables
 <br>For smooth program execution, you should create a table named gifticon, member, reserve2, stay, stay1, stay2.
 The information of each table is the same as the picture.
+
